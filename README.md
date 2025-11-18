@@ -77,5 +77,7 @@ SetUp instruction
 3. run the app
    
    steamlit run/steamlit_app.py
-   
-   
+
+LICENSE
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
